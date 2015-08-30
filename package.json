@@ -23,7 +23,7 @@
     "url": "https://github.com/ezekielchentnik/domlyify/issues"
   },
   "dependencies": {
-    "domly": "0.0.9",
+    "domly": "^0.0.9",
     "through": "^2.3.0"
   }
 }

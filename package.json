@@ -1,0 +1,29 @@
+{
+  "name": "domlyify",
+  "version": "0.0.0",
+  "description": "browserify plugin for DOMly template files",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezekielchentnik/domlyify.git"
+  },
+  "keywords": [
+    "browserify",
+    "browserify-transform",
+    "js",
+    "plugin",
+    "transform"
+  ],
+  "author": "Ezekiel Chentnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezekielchentnik/domlyify/issues"
+  },
+  "dependencies": {
+    "domly": "0.0.9",
+    "through": "^2.3.0"
+  }
+}

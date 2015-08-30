@@ -54,6 +54,12 @@ You can also configure it in package.json
 
     npm test
 
+
+## Roadmap
+
+    - add tests
+    - add examples
+
 ## Author
 
 Ezekiel Chentnik
